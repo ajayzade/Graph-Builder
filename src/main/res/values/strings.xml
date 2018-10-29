@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Graph Builder</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Graph Builder</string>
+    <string name="nav_header_subtitle">www.ajayzade2018@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="show">Enter x and y coordinates for plotting graphs :</string>
+    <string name="action_settings">BACKGROUND</string>
+    <string name="spin">Select equation from the spinner</string>
+</resources>

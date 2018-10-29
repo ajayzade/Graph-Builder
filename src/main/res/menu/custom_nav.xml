@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/g"
+            android:icon="@drawable/graph"
+            android:title="Graph" />
+        <item
+            android:id="@+id/p"
+            android:icon="@drawable/pie"
+            android:title="Pie Chart" />
+        <item
+            android:id="@+id/s"
+            android:icon="@drawable/scatter"
+            android:title="Scatter Chart" />
+        <item
+            android:id="@+id/b"
+            android:icon="@drawable/bar"
+            android:title="Bar Chart" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_info"
+                android:title="About" />
+        </menu>
+    </item>
+
+</menu>
